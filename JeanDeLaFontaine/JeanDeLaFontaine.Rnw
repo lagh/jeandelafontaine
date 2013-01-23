@@ -1,0 +1,22 @@
+% 
+\documentclass[a4paper]{report}
+\usepackage{Sweave}
+
+\title{Jean De La Fontaine \newline \newline Biographie \& Selection des
+meilleures fables}
+
+\author{Lionel Aldebert}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\newpage
+
+\chapter{Biographie}
+
+\chapter{Selection des fables}
+
+\end{document}
